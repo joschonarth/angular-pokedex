@@ -52,7 +52,7 @@ ng serve
 
 ## 🌐 Teste o Projeto 
 
-Experimente a Pokédex diretamente no site: [Pokémon Pokédex](https://angular-pokedex-roan.vercel.app/)
+🔗 Experimente a Pokédex diretamente no site: [Pokémon Pokédex](https://angular-pokedex-roan.vercel.app/)
 
 ## 🤝 Contribuição 
 
