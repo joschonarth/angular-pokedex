@@ -5,9 +5,9 @@ Este projeto é uma Pokédex que utiliza a [PokeAPI](https://pokeapi.co/) para f
 ## 🎥 Demonstração
 
 <div align="center">
-
-![Angular Pokédex](assets/pokedex.gif)
-
+  <a href="https://angular-pokedex-roan.vercel.app/" target="_blank">
+    <img src="assets/pokedex.gif" alt="Angular Pokédex" />
+  </a>
 </div>
 
 ## ⚙️ Funcionalidades
