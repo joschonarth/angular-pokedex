@@ -1,27 +1,66 @@
-# ServicesProject
+# <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png" alt="Pokébola" align="center" width="40"/>Pokédex 
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.0.
+Este projeto é uma Pokédex que utiliza a [PokeAPI](https://pokeapi.co/) para fornecer informações sobre Pokémon. Os usuários podem pesquisar e visualizar dados como imagem, nome e tipo dos Pokémon.
 
-## Development server
+## 🎥 Demonstração
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+![Angular Pokédex](assets)
 
-## Code scaffolding
+## ⚙️ Funcionalidades
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- Pesquisa de Pokémon por nome.
+- Exibição da imagem, nome e tipos do Pokémon pesquisado.
+- Interface amigável e responsiva.
 
-## Build
+## 🛠️ Tecnologias Utilizadas 
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+- 💻 **Frontend:** TypeScript, HTML e CSS
+- 🅰️ **Framework:** [Angular](https://angular.io/)
+- 🗂️ **API:** [PokeAPI](https://pokeapi.co/)
 
-## Running unit tests
+## 🚀 Como Rodar o Projeto 
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+1. Clone o repositório:
 
-## Running end-to-end tests
+```bash
+git clone https://github.com/joschonarth/angular-pokedex
+```
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+2. Navegue até o diretório do projeto:
 
-## Further help
+```bash
+git clone cd angular-pokedex
+```
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+3. Instale as dependências:
+
+```bash
+npm install
+```
+
+4. Inicie o servidor de desenvolvimento do Angular:
+
+```bash
+ng serve
+```
+
+5. Abra o navegador e acesse `http://localhost:4200`.
+
+## 🌐 Teste o Projeto 
+
+Experimente a Pokédex diretamente no site: 
+
+## 🤝 Contribuição 
+
+Contribuições são bem-vindas! Se você encontrar um bug ou tiver uma sugestão de melhoria, por favor, abra um issue ou envie um pull request.
+
+## 📜 Licença 
+
+Este projeto está licenciado sob a MIT License.
+
+## 📫 Contato 
+
+<div>
+    <a href="https://www.linkedin.com/in/joschonarth/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="mailto:joschonarth@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
