@@ -4,7 +4,11 @@ Este projeto é uma Pokédex que utiliza a [PokeAPI](https://pokeapi.co/) para f
 
 ## 🎥 Demonstração
 
-![Angular Pokédex](assets)
+<div align="center">
+
+![Angular Pokédex](assets/pokedex.gif)
+
+</div>
 
 ## ⚙️ Funcionalidades
 
@@ -48,7 +52,7 @@ ng serve
 
 ## 🌐 Teste o Projeto 
 
-Experimente a Pokédex diretamente no site: 
+Experimente a Pokédex diretamente no site: [Pokémon Pokédex](https://angular-pokedex-roan.vercel.app/)
 
 ## 🤝 Contribuição 
 
