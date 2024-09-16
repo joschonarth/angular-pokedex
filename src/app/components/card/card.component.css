@@ -1,0 +1,158 @@
+.card {
+  width: 280px;
+  height: 420px;
+  display: flex;
+  flex-direction: column;
+  background-color: #2b2b2b;
+  border: 3px solid #3d3d3d;
+  border-radius: 15px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+  padding: 15px;
+  font-family: 'Arial', sans-serif;
+}
+
+.card__input {
+  background-color: #3d3d3d;
+  color: #ffffff;
+  border: 2px solid #5a5a5a;
+  border-radius: 8px;
+  padding: 8px;
+  font-size: 0.8rem;
+  margin-bottom: 10px;
+}
+
+.card__input::placeholder {
+  color: #b0b0b0;
+}
+
+.card__title {
+  margin: 10px auto;
+  text-align: center;
+  background-color: #2b2b2b;
+}
+
+.card__title > h3 {
+  color: #fff;
+  font-size: 1.8rem;
+  /* text-transform: uppercase; */
+  background-color: #2b2b2b;
+}
+
+.card__body {
+  background-color: #3d3d3d;
+  border-radius: 10px;
+  width: 90%;
+  height: 70%;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 2px solid #5a5a5a;
+}
+
+.card__body > img {
+  background-color: #3d3d3d;
+}
+
+.card__stats {
+  padding-top: 15px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  gap: 8px;
+  background-color: #2b2b2b;
+}
+
+.card__stats__type {
+  color: #fff;
+  font-weight: bold;
+  background-color: #EF5350;
+  padding: 6px 10px;
+  border-radius: 12px;
+  text-transform: capitalize;
+  font-size: 0.9rem;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+}
+
+/* Pokémon Types */
+
+.bug {
+  background-color: #729F3F;
+}
+
+.dark {
+  background-color: #707070;
+}
+
+.dragon {
+  background-image: linear-gradient(to bottom, #53A4CF 50%, #F16E57 50%);
+}
+
+.electric {
+  background-color: #EED535;
+  color: #333;
+}
+
+.fairy {
+  background-color: #FDB9E9;
+  color: #333;
+}
+
+.fighting {
+ background-color: #D56723;
+}
+
+.fire {
+  background-color: #FD7D24;
+}
+
+.flying {
+  background-image: linear-gradient(to bottom, #3DC7EF 50%, #BDB9B8 50%);
+  color: #333;
+}
+
+.ghost {
+  background-color: #7B62A3;
+}
+
+.grass {
+  background-color: #9BCC50;
+  color: #333;
+}
+
+.ground {
+  background-image: linear-gradient(to bottom, #F7DE3F 50%, #AB9842 50%);
+  color: #333;
+}
+
+.ice {
+  background-color: #51C4E7;
+  color: #333;
+}
+
+.normal {
+  background-color: #A4ACAF;
+  color: #333;
+}
+
+.poison {
+  background-color: #B97FC9;
+}
+
+.psychic {
+  background-color: #F366B9;
+}
+
+.rock {
+  background-color: #A38C21;
+}
+
+.steel {
+  background-color: #9EB7B8;
+  color: #333;
+}
+
+.water {
+  background-color: #4592C4;
+}
+

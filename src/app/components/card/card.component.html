@@ -1,0 +1,14 @@
+<div class="card">
+  <input type="text" class="card__input" (input)="getPokemon($any($event.target).value)" placeholder="Pesquise um Pokémon">
+  <div class="card__title">
+    <h3>{{ pokemon.name | uppercase }}</h3>
+  </div>
+  <div class="card__body">
+    <img [src]="pokemon.sprites.front_default" height="200" alt="Pokemon">
+  </div>
+  <div class="card__stats">
+    <span class="card__stats__type" *ngFor="let t of pokemon.types" [ngClass]="getTypeClass(t.type.name)">
+      {{ t.type.name | titlecase }}
+    </span>
+  </div>
+</div>
