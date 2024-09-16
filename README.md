@@ -1,4 +1,4 @@
-# 🕵️‍♂️✨ Pokédex 
+# <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png" alt="Pokébola" align="center" width="40"/>Pokémon Pokédex 
 
 Este projeto é uma Pokédex que utiliza a [PokeAPI](https://pokeapi.co/) para fornecer informações sobre Pokémon. Os usuários podem pesquisar e visualizar dados como imagem, nome e tipo dos Pokémon.
 
