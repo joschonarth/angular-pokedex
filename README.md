@@ -60,7 +60,7 @@ Contribuições são bem-vindas! Se você encontrar um bug ou tiver uma sugestã
 
 ## 📜 Licença 
 
-Este projeto está licenciado sob a MIT License.
+Este projeto está licenciado sob a [MIT License](LICENSE).
 
 ## 📫 Contato 
 
